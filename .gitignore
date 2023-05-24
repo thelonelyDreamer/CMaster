@@ -1,6 +1,13 @@
+# 日志
+**/*.log
+
+# 编译文件
+**/*.exe
+
+
+
 # Prerequisites
 *.d
-
 # Object files
 *.o
 *.ko
